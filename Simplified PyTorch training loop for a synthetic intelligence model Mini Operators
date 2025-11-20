@@ -1,0 +1,3 @@
+model = MySyntheticIntelligenceModel().to(device)
+
+Pending/Redacted
